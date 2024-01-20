@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laiyeeq
 - 👀 I’m interested in FBA Amazon 
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
